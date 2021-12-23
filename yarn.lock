@@ -1833,6 +1833,13 @@ hexo-generator-search@^2.4.3:
     nunjucks "^3.0.1"
     utils-merge "^1.0.0"
 
+hexo-generator-searchdb@^1.4.0:
+  version "1.4.0"
+  resolved "https://registry.nlark.com/hexo-generator-searchdb/download/hexo-generator-searchdb-1.4.0.tgz#e6774378d841cbaa6ccbc8206ce14a492b3a115e"
+  integrity sha1-5ndDeNhBy6psy8ggbOFKSSs6EV4=
+  dependencies:
+    nunjucks "^3.2.2"
+
 hexo-generator-tag@^1.0.0:
   version "1.0.0"
   resolved "https://registry.npm.taobao.org/hexo-generator-tag/download/hexo-generator-tag-1.0.0.tgz#54ec23de9409c75584ea81e36057a59031b022f1"
@@ -2802,7 +2809,7 @@ normalize-path@^3.0.0, normalize-path@~3.0.0:
   resolved "https://registry.npm.taobao.org/normalize-path/download/normalize-path-3.0.0.tgz#0dcd69ff23a1c9b11fd0978316644a0388216a65"
   integrity sha1-Dc1p/yOhybEf0JeDFmRKA4ghamU=
 
-nunjucks@^3.0.1, nunjucks@^3.2.1:
+nunjucks@^3.0.1, nunjucks@^3.2.1, nunjucks@^3.2.2:
   version "3.2.3"
   resolved "https://registry.npmmirror.com/nunjucks/download/nunjucks-3.2.3.tgz#1b33615247290e94e28263b5d855ece765648a31"
   integrity sha1-GzNhUkcpDpTigmO12FXs52VkijE=

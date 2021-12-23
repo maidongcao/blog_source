@@ -114,6 +114,3 @@ deploy:
 search:
   path: search.json
   field: post
-
-post_style:
-    indent: 0
