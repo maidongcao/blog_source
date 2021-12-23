@@ -71,6 +71,12 @@
     </p>
     <% }%>
     <p>
+        <script src='https://unpkg.com/mermaid@7.1.2/dist/mermaid.min.js'></script>
+            <script>
+              if (window.mermaid) {
+                mermaid.initialize({theme: 'forest'});
+              }
+        </script>
         <!-- <span id="busuanzi_container_site_pv">
             <span id="busuanzi_value_site_pv"></span>PV
         </span>
@@ -79,5 +85,3 @@
         </span> -->
         <!-- Created By <a href="https://hexo.io/">Hexo</a>  Theme <a href="https://github.com/aircloud/hexo-theme-aircloud">AirCloud</a></p> -->
 </footer>
-
-
