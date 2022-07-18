@@ -2,7 +2,7 @@ title: 根节点和stw
 tags: [java]
 categories:
   - 编程语言
-date: 2021-07-30 20:32:00
+date: 2021-07-30 20:32:12
 ---
 *  gc roots 有哪些？
 1. 全局引用（静态变量或者常量的引用）
